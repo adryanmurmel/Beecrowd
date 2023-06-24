@@ -1,2 +1,2 @@
 # Beecrowd
-Exercícios da plataforma beecrowd em linguagem C
+# Exercícios da plataforma beecrowd em linguagem C
