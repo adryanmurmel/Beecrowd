@@ -4,7 +4,7 @@ e atribua esta operação à variável PROD.
 A seguir mostre a variável PROD com mensagem correspondente.*/
 
 #include <stdio.h>
-
+ 
 int main()
 {
 
