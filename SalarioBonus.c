@@ -9,7 +9,7 @@ int main()
 
   printf("Insira o nome do vendedor: ");
   scanf("%s", nome);
-
+ 
   printf("\nInsira o salario fixo: ");
   scanf("%lf", &salarioFixo);
 
