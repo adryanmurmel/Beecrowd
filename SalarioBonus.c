@@ -8,7 +8,7 @@ int main()
   double TOTAL = 0;
 
   printf("Insira o nome do vendedor: ");
-  scanf("%s", nome);
+  scanf("%s", &nome);
  
   printf("\nInsira o salario fixo: ");
   scanf("%lf", &salarioFixo);
