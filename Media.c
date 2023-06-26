@@ -5,7 +5,7 @@ informar o total a receber no final do mês, com duas casas decimais.*/
 
 #include <stdio.h>
 
-int main()
+int main() 
 {
   char nome;
   float salarioFixo, vendasMes, totalAumento, salarioTotal, percentual;
