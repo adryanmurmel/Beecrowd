@@ -11,7 +11,7 @@ int main()
   scanf("%s", &nome);
  
   printf("\nInsira o salario fixo: ");
-  scanf("%lf", &salarioFixo);
+  scanf("%lf", &salarioFixo); 
 
   printf("\nInsira as vendas do mes: ");
   scanf("%lf", &vendasMes);
