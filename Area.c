@@ -6,7 +6,7 @@ c) a área do trapézio que tem A e B por bases e C por altura.
 d) a área do quadrado que tem lado B.
 e) a área do retângulo que tem lados A e B.*/
 
-#include <stdio.h>
+#include <stdio.h> 
 #define pi 3.14159
 int main()
 {
