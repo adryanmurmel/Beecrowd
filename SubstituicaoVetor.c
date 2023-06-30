@@ -5,7 +5,7 @@ Em seguida mostre o vetor X.*/
 #include <stdio.h>
 
 int main()
-{
+{ 
   int X[10], i;
 
   for(i=0;i<10;i++)
