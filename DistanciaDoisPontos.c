@@ -2,7 +2,7 @@
 no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles,
 mostrando 4 casas decimais após a vírgula*/
 
-#include <stdio.h>
+#include <stdio.h> 
 #include <math.h>
 
 int main() 
