@@ -7,7 +7,7 @@ mostrando 4 casas decimais após a vírgula*/
 
 int main() 
 {
-  float x1;
+  float x1; 
   float x2; 
   float y1; 
   float y2;
