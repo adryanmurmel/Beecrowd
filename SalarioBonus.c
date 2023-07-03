@@ -4,7 +4,7 @@ int main()
 {
   char nome[20];
   double salarioFixo;
-  double vendasMes;
+  double vendasMes; 
   double TOTAL = 0;
 
   printf("Insira o nome do vendedor: ");
