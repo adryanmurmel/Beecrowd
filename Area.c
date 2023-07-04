@@ -7,7 +7,7 @@ d) a área do quadrado que tem lado B.
 e) a área do retângulo que tem lados A e B.*/
 
 #include <stdio.h> 
-#define pi 3.14159
+#define pi 3.14159 
 int main() 
 {
   double A, B, C;
