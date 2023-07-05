@@ -3,7 +3,7 @@ sendo fornecidos a distância total percorrida (em Km)
 e o total de combustível gasto (em litros).*/
 
 #include <stdio.h>
-#include <math.h> 
+#include <math.h>
  
 int main()
 {
