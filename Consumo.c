@@ -9,7 +9,7 @@ int main()
 {
   int x;
   float y;
-  float c;
+  float c; 
 
   printf("Insira quantos km percorreu e quantos litros gastou: ");
   scanf("%d %f", &x, &y);
