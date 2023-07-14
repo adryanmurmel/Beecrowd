@@ -5,7 +5,7 @@ e o total de combustível gasto (em litros).*/
 #include <stdio.h>
 #include <math.h>
  
-int main()
+int main() 
 {
   int x;
   float y;
