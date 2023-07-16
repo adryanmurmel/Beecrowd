@@ -9,7 +9,7 @@ Utilize variáveis de dupla precisão (double).*/
  
 #include <stdio.h>
 
-int main(void)
+int main(void) 
 {
   double raio, pi = 3.14159, area;
 
