@@ -2,7 +2,7 @@
 A seguir, calcule e mostre a diferença do produto de A e B
 pelo produto de C e D
 segundo a fórmula: DIFERENCA = (A * B - C * D).*/
-// Exercicio 1007
+// Exercicio 1007 
 
 #include <stdio.h> 
 
