@@ -7,7 +7,7 @@ Apresentar a mensagem "AREA=" seguido pelo valor da variável area,
 conforme exemplo abaixo, com 4 casas após o ponto decimal.
 Utilize variáveis de dupla precisão (double).*/
  
-#include <stdio.h>
+#include <stdio.h> 
 
 int main(void) 
 {
