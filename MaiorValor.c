@@ -8,7 +8,7 @@ Um segundo passo, portanto é necessário para chegar no resultado esperado.*/
 #include <stdlib.h>
 
 int maiorAB(int A, int B, int C)
-{
+{ 
   int maxAB, max;
   maxAB = (A + B + abs(A - B)) / 2;
   max = (maxAB + C + abs(maxAB - C)) / 2;
