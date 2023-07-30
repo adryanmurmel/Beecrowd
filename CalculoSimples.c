@@ -4,7 +4,7 @@ o número de peças 2 e o valor unitário de cada peça 2.
 Após, calcule e mostre o valor a ser pago.*/
 
 #include <stdio.h>
- 
+
 int main()
 { 
   int codigo, quantidade, codigo2, quantidade2;
