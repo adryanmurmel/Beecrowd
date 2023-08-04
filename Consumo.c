@@ -8,7 +8,7 @@ e o total de combustível gasto (em litros).*/
 int main()
 {
   int x;
-  float y;
+  float y; 
   float c;
 
   printf("Insira quantos km percorreu e quantos litros gastou: ");
