@@ -5,7 +5,7 @@ quantos valores digitados foram negativos.*/
 
 #include <stdio.h>
 
-int main()
+int main() 
 {
   int i, x, p = 0, n = 0, e = 0, o = 0;
 
