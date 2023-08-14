@@ -12,7 +12,7 @@ int main()
   float c;
 
   printf("Insira quantos km percorreu e quantos litros gastou: ");
-  scanf("%d %f", &x, &y);
+  scanf("%d %f", &x, &y); 
 
   c = x / y;
 
