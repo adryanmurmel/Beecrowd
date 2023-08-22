@@ -1,6 +1,6 @@
 /*Entrada
 A entrada contém um valor de ponto flutuante (dupla precisão),
-no caso, a variável raio.
+no caso, a variável raio. 
  
 Saída
 Apresentar a mensagem "AREA=" seguido pelo valor da variável area, 
