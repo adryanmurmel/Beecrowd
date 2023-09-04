@@ -1,7 +1,7 @@
 #include <stdio.h> 
 
 int main()
-{
+{ 
   int n, fatorial = 1, i;
 
   scanf("%d", &n);
