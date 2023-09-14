@@ -6,7 +6,7 @@ segundo a fórmula: DIFERENCA = (A * B - C * D).*/
 
 #include <stdio.h> 
 
-int main()
+int main() 
 {
 
   int A, B, C, D, result;
