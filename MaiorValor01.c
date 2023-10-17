@@ -4,7 +4,7 @@ int maior(int A, int B);
 
 int maior(int A, int B)
 {
-  if (A > B)
+  if (A > B) 
     return A;
   else
     return B;
