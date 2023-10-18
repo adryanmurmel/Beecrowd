@@ -5,7 +5,7 @@ Após, calcule e mostre o valor a ser pago.*/
 
 #include <stdio.h>
 
-int main() 
+int main()
 {
   int codigo, quantidade, codigo2, quantidade2;
   float preco, preco2; 
