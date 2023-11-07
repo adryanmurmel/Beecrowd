@@ -8,7 +8,7 @@ Após, calcule e mostre o valor a ser pago.*/
 int main()
 { 
   int codigo, quantidade, codigo2, quantidade2;
-  float preco, preco2; 
+  float preco, preco2;
 
   printf("Insira o codigo, quantidade e preco da unidade do produto 1: ");
   scanf("%d%d%f", &codigo, &quantidade, &preco);
